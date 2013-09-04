@@ -1,0 +1,11 @@
+D:\_work\Xero\XeroLightningTest\XeroLightningTest\bin\XeroLightningTest.dll
+D:\_work\Xero\XeroLightningTest\XeroLightningTest\bin\XeroLightningTest.pdb
+D:\_work\Xero\XeroLightningTest\XeroLightningTest\bin\XeroLightningTest.xml
+D:\_work\Xero\XeroLightningTest\XeroLightningTest\bin\XeroApi.dll
+D:\_work\Xero\XeroLightningTest\XeroLightningTest\bin\XeroApi.pdb
+D:\_work\Xero\XeroLightningTest\XeroLightningTest\obj\Debug\XeroLightningTest.vbprojResolveAssemblyReference.cache
+D:\_work\Xero\XeroLightningTest\XeroLightningTest\obj\Debug\XeroLightningTest.Resources.resources
+D:\_work\Xero\XeroLightningTest\XeroLightningTest\obj\Debug\XeroLightningTest.vbproj.GenerateResource.Cache
+D:\_work\Xero\XeroLightningTest\XeroLightningTest\obj\Debug\XeroLightningTest.dll
+D:\_work\Xero\XeroLightningTest\XeroLightningTest\obj\Debug\XeroLightningTest.xml
+D:\_work\Xero\XeroLightningTest\XeroLightningTest\obj\Debug\XeroLightningTest.pdb
